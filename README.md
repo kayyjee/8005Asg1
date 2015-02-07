@@ -1,4 +1,5 @@
-# 8005Asg1
+# Comparing Processes vs. Threads with Java in a Windows Environment
+
 Comparing processes vs. threads in Java
 Objective
 Using multiple processes and threads in the Windows environment, to measure the performance and efficiency of each mechanism.  
